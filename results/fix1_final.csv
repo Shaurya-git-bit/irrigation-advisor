@@ -1,0 +1,3 @@
+rule,margin,skipped_%,needed_missed_%
+model,0.015,65.0,15.6
+naive_today,0.01,63.8,17.2

@@ -1,0 +1,4 @@
+horizon_days,test_rows,MAE_model,MAE_persistence,improvement_%,R2_delta
+1,25162,0.01292,0.01525,15.3,0.228
+3,25116,0.02972,0.03258,8.8,0.184
+5,25070,0.03888,0.0425,8.5,0.197
