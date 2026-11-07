@@ -879,7 +879,4 @@ elif page == "About":
         unsafe_allow_html=True,
     )
 
-    st.markdown(
-        '<div class="ks-footer">Built for Neural Storm 2026, problem GP-02</div>',
-        unsafe_allow_html=True,
-    )
+
