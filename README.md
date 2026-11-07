@@ -77,6 +77,8 @@ The demo replays 2023-25 data, so dates in that range are available.
  
 **Run locally:**
 ```bash
+git clone https://github.com/Shaurya-git-bit/irrigation-advisor.git
+cd irrigation-advisor
 pip install -r requirements.txt
 streamlit run irrigation_advisor_app.py
 ```
